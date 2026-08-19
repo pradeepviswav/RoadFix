@@ -1,0 +1,6 @@
+{
+  "name": "SadakRakshak",
+  "description": "Indian civic pothole & road damage reporting platform with AI verification, proximity clustering, auto-drive pothole detection sensors, and multi-language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
