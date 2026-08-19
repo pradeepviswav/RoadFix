@@ -28,8 +28,8 @@ object AppStrings {
 
     private val translations: Map<AppLanguage, Map<String, String>> = mapOf(
         AppLanguage.ENGLISH to mapOf(
-            "app_title" to "SadakRakshak",
-            "app_tagline" to "Fixing India's Roads, Together",
+            "app_title" to "RoadCare",
+            "app_tagline" to "Fixing Roads, Saving Lives Together",
             "nav_feed" to "Road Radar",
             "nav_report" to "Report Issue",
             "nav_drive" to "Auto-Spotter",
